@@ -1,4 +1,5 @@
-[
+{
+"producto": [
   {
     "id": 1,
     "nombre": "Coca-Cola",
@@ -19,5 +20,6 @@
     "precio": "$15.00",
     "categoria": "Agua",
     "imagen": "https://raw.githubusercontent.com/Luis-Cervantes-1057/UIII-Actividad2-1057/refs/heads/main/assets/Images/agua.png"
-  }
-]
+  },
+ ],
+}  
