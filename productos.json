@@ -1,0 +1,30 @@
+creas un repositorio en git hub
+Najera
+y después vas a crear un archivo con el nombre que quieres solo que al final le vas agregar ".json"
+Najera
+después en ese archivo vas a empezar agregar tus productos, se empieza algo así: 
+
+
+[
+  {
+    "id": 1,
+    "nombre": "Quinta Roo",
+    "precio": "$3,500.00",
+    "disponible": true,
+    "imagenUrl": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/quintaroo.jpeg"
+  },
+  {
+    "id": 2,
+    "nombre": "San Luis Potosi",
+    "precio": "$4,950.00",
+    "disponible": false,
+    "imagenUrl": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/nuevoleon.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Nuevo Leon",
+    "precio": "$2,850.00",
+    "disponible": true,
+    "imagenUrl": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/potosi.jpg"
+  }
+]
